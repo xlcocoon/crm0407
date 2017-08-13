@@ -10,6 +10,7 @@ public class Client {
 		System.out.println("hello p2");
 		System.out.println("回复 Github服务器");
 		System.out.println("回复 Github服务器V2");
+		System.out.println("0407 springmvc");
 	}
 
 }
